@@ -8,3 +8,8 @@ html,body{
 #map{
   height: 100%;
 }
+
+#pano {
+  width: 200px;
+  height: 200px;
+}
